@@ -1,6 +1,7 @@
 ---
 title: MP4：配置电机编码盘
 date: 2025-01-21 15:16:08
+categories: 平衡小车
 tags: 平衡小车
 top_img: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg
 cover: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg

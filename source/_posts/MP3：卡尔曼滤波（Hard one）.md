@@ -1,6 +1,7 @@
 ---
 title: MP3：卡尔曼滤波器
 date: 2025-01-20 17:41:16
+categories: 平衡小车
 tags: 平衡小车
 top_img: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg
 cover: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg

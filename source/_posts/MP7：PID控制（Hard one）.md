@@ -1,6 +1,7 @@
 ---
 title: MP7：PID控制（Hard one）
 date: 2025-02-06 15:06:08
+categories: 平衡小车
 tags: 平衡小车
 top_img: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg
 cover: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg

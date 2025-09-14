@@ -1,6 +1,7 @@
 ---
 title: MP1：驱动OLED--6针脚改4针脚
 date: 2024-11-22 22:15:53
+categories: 平衡小车
 tags: 平衡小车
 top_img: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg
 cover: https://img.alicdn.com/i4/2214283073185/O1CN01DUaXAl1ZOmI9WZHla_!!2214283073185.jpg
