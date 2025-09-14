@@ -67,7 +67,7 @@ copy:
 #   name: link || icon
 social:
   # Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
-   BiliBili: https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click&vd_source=21b78eb73d808f842c3ff2485f3933ab || anzhiyu-icon-bilibili
+   BiliBili: https://www.bilibili.com/video/BV1ZmGQzsE4N/?spm_id_from=333.337.search-card.all.click&vd_source=0fd1f057b83efcd72471e25aba9ed7a8 || anzhiyu-icon-bilibili
 
 # 作者卡片 状态
 author_status:
@@ -75,7 +75,7 @@ author_status:
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/QQ/shui.gif"
   skills:
-    # - 🤖️ 数码科技爱好者
+    - 躺平爱好者(-3-)
     # - 🔍 分享与热心帮助
     # - 🏠 智能家居小能手
     # - 🔨 设计开发一条龙
